@@ -1,0 +1,11 @@
+C:\Users\Usuario\Desktop\MATERIAS\TOPICOS_AVANZADOS_PROGRAMACION\Practica_Hilos\Practica_Hilos\Practica_Hilos\bin\Debug\Practica_Hilos.exe.config
+C:\Users\Usuario\Desktop\MATERIAS\TOPICOS_AVANZADOS_PROGRAMACION\Practica_Hilos\Practica_Hilos\Practica_Hilos\bin\Debug\Practica_Hilos.exe
+C:\Users\Usuario\Desktop\MATERIAS\TOPICOS_AVANZADOS_PROGRAMACION\Practica_Hilos\Practica_Hilos\Practica_Hilos\bin\Debug\Practica_Hilos.pdb
+C:\Users\Usuario\Desktop\MATERIAS\TOPICOS_AVANZADOS_PROGRAMACION\Practica_Hilos\Practica_Hilos\Practica_Hilos\obj\Debug\Practica_Hilos.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\MATERIAS\TOPICOS_AVANZADOS_PROGRAMACION\Practica_Hilos\Practica_Hilos\Practica_Hilos\obj\Debug\Practica_Hilos.Form1.resources
+C:\Users\Usuario\Desktop\MATERIAS\TOPICOS_AVANZADOS_PROGRAMACION\Practica_Hilos\Practica_Hilos\Practica_Hilos\obj\Debug\Practica_Hilos.Properties.Resources.resources
+C:\Users\Usuario\Desktop\MATERIAS\TOPICOS_AVANZADOS_PROGRAMACION\Practica_Hilos\Practica_Hilos\Practica_Hilos\obj\Debug\Practica_Hilos.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\MATERIAS\TOPICOS_AVANZADOS_PROGRAMACION\Practica_Hilos\Practica_Hilos\Practica_Hilos\obj\Debug\Practica_Hilos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\MATERIAS\TOPICOS_AVANZADOS_PROGRAMACION\Practica_Hilos\Practica_Hilos\Practica_Hilos\obj\Debug\Practica_Hilos.exe
+C:\Users\Usuario\Desktop\MATERIAS\TOPICOS_AVANZADOS_PROGRAMACION\Practica_Hilos\Practica_Hilos\Practica_Hilos\obj\Debug\Practica_Hilos.pdb
+C:\Users\Usuario\Desktop\MATERIAS\TOPICOS_AVANZADOS_PROGRAMACION\Practica_Hilos\Practica_Hilos\Practica_Hilos\obj\Debug\Practica_Hilos.Menu.resources
